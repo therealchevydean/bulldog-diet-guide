@@ -1,0 +1,224 @@
+{
+  "breed": "Bulldog",
+  "breed_info": {
+    "aliases": ["English Bulldog", "British Bulldog"],
+    "size_category": "Medium",
+    "average_weight_male_lbs": 50,
+    "average_weight_female_lbs": 40,
+    "common_health_issues": [
+      "Brachycephalic Obstructive Airway Syndrome (BOAS)",
+      "Obesity",
+      "Hip and Elbow Dysplasia",
+      "Skin Fold Dermatitis",
+      "Food Allergies and Sensitivities",
+      "Flatulence and Gas",
+      "Hypothyroidism"
+    ],
+    "nutritional_priorities": [
+      "Moderate calorie density to prevent obesity",
+      "High-quality, highly digestible proteins",
+      "Joint support supplements (Glucosamine, Chondroitin, Omega-3 fatty acids)",
+      "Limited ingredients to manage potential food allergies",
+      "Moderate fat levels (avoid overly fatty foods due to sensitivity to pancreatitis and weight gain)"
+    ]
+  },
+  "dietary_guidelines": {
+    "life_stages": {
+      "puppy": {
+        "protein_percentage_min": 22,
+        "fat_percentage_min": 8,
+        "notes": "Bulldog puppies grow rapidly, but controlled growth is vital to prevent skeletal issues like hip dysplasia. Avoid free-feeding; follow strict portion control."
+      },
+      "adult": {
+        "protein_percentage_min": 20,
+        "fat_percentage_max": 14,
+        "notes": "Adult Bulldogs are prone to weight gain due to lower activity levels. Monitor caloric intake carefully and avoid high-fat commercial foods."
+      },
+      "senior": {
+        "protein_percentage_min": 22,
+        "fat_percentage_max": 12,
+        "notes": "Seniors need easily digestible proteins to maintain muscle mass without stressing kidneys, along with increased joint supplements."
+      }
+    },
+    "feeding_tips": [
+      "Use slow-feeder bowls to prevent gulping air, which worsens flatulence and bloating.",
+      "Divide daily food into at least two or three smaller meals.",
+      "Always provide fresh, clean water.",
+      "Monitor treats carefully; treats should not exceed 10% of daily caloric intake."
+    ]
+  },
+  "safe_foods": [
+    {
+      "name": "Plain Cooked Chicken",
+      "category": "Protein",
+      "benefits": "High-quality, lean protein source that is easy to digest. Great for sensitive stomachs.",
+      "serving_instructions": "Boiled or baked plain without oils, butter, spices, salt, or garlic/onions. Remove skin and bones."
+    },
+    {
+      "name": "Plain Cooked Turkey",
+      "category": "Protein",
+      "benefits": "Lean protein alternative to chicken, rich in amino acids.",
+      "serving_instructions": "Cooked thoroughly, unseasoned, bone-free, and skinless."
+    },
+    {
+      "name": "White or Brown Rice",
+      "category": "Carbohydrates",
+      "benefits": "White rice is excellent for binding stool during bouts of mild upset stomach. Brown rice provides extra fiber for healthy adults.",
+      "serving_instructions": "Cooked thoroughly with water only; no salt, butter, or seasonings."
+    },
+    {
+      "name": "Pumpkin (Pure)",
+      "category": "Vegetables / Fiber",
+      "benefits": "High in soluble fiber; regulates digestion, helps with both mild diarrhea and constipation.",
+      "serving_instructions": "Use 100% pure canned pumpkin puree (NOT pumpkin pie mix). Serve 1 to 2 tablespoons depending on dog size."
+    },
+    {
+      "name": "Carrots",
+      "category": "Vegetables",
+      "benefits": "Low in calories, high in beta-carotene and Vitamin A. Great for dental health when given raw as a crunchy snack.",
+      "serving_instructions": "Wash thoroughly and cut into bite-sized pieces to prevent choking, or serve baby carrots."
+    },
+    {
+      "name": "Green Beans",
+      "category": "Vegetables",
+      "benefits": "Low-calorie filler rich in iron, calcium, and vitamins B6, A, and C. Excellent for overweight Bulldogs needing volume without extra calories.",
+      "serving_instructions": "Fresh or frozen (plain, unseasoned, no added sodium/butter). Steam or serve raw in small pieces."
+    },
+    {
+      "name": "Sweet Potatoes",
+      "category": "Carbohydrates",
+      "benefits": "Rich in dietary fiber, Vitamin A, C, B6, and antioxidants. Great complex carbohydrate source.",
+      "serving_instructions": "Peel, cook thoroughly (baked or boiled), and mash without any butter, sugar, or spices."
+    },
+    {
+      "name": "Blueberries",
+      "category": "Fruits",
+      "benefits": "Packed with antioxidants, fiber, and phytochemicals that support immune health.",
+      "serving_instructions": "Wash thoroughly and serve fresh or frozen as occasional treats."
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "category": "Dairy / Probiotics",
+      "benefits": "Contains probiotics that support gut health and calcium for bones. Choose low-fat or fat-free.",
+      "serving_instructions": "Ensure it is plain with NO artificial sweeteners (especially xylitol). Serve 1-2 teaspoons occasionally."
+    },
+    {
+      "name": "Salmon (Cooked)",
+      "category": "Fish / Fats",
+      "benefits": "Rich in Omega-3 fatty acids, which reduce inflammation and support skin, coat, and joint health.",
+      "serving_instructions": "Must be fully cooked (never raw) with all bones removed. No seasonings."
+    }
+  ],
+  "toxic_foods": [
+    {
+      "name": "Chocolate",
+      "risk_level": "High / Fatal",
+      "toxic_agent": "Theobromine and Caffeine",
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Increased heart rate",
+        "Seizures",
+        "Death"
+      ]
+    },
+    {
+      "name": "Grapes and Raisins",
+      "risk_level": "High / Fatal",
+      "toxic_agent": "Unknown toxin causing rapid kidney failure",
+      "symptoms": [
+        "Lethargy",
+        "Vomiting",
+        "Loss of appetite",
+        "Acute kidney failure"
+      ]
+    },
+    {
+      "name": "Onions, Garlic, and Chives",
+      "risk_level": "Moderate to High",
+      "toxic_agent": "N-propyl disulfide (damages red blood cells)",
+      "symptoms": [
+        "Weakness",
+        "Hemolytic anemia",
+        "Pale gums",
+        "Vomiting",
+        "Breath odor"
+      ]
+    },
+    {
+      "name": "Xylitol (Artificial Sweetener)",
+      "risk_level": "Critical / Emergency",
+      "toxic_agent": "Xylitol (triggers massive insulin release)",
+      "symptoms": [
+        "Rapid weakness",
+        "Collapse",
+        "Seizures",
+        "Liver failure"
+      ]
+    },
+    {
+      "name": "Macadamia Nuts",
+      "risk_level": "High",
+      "toxic_agent": "Unknown neurotoxin",
+      "symptoms": [
+        "Muscle tremors",
+        "Weakness in hind legs",
+        "Vomiting",
+        "Fever"
+      ]
+    },
+    {
+      "name": "Alcohol",
+      "risk_level": "Fatal",
+      "toxic_agent": "Ethanol",
+      "symptoms": [
+        "Central nervous system depression",
+        "Respiratory failure",
+        "Coma",
+        "Death"
+      ]
+    },
+    {
+      "name": "Avocado",
+      "risk_level": "Moderate",
+      "toxic_agent": "Persin (found in fruit, pit, leaves, and bark)",
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Intestinal obstruction (from pit)"
+      ]
+    },
+    {
+      "name": "Caffeinated Beverages (Coffee, Tea)",
+      "risk_level": "High",
+      "toxic_agent": "Caffeine",
+      "symptoms": [
+        "Restlessness",
+        "Rapid breathing",
+        "Heart palpitations",
+        "Muscle tremors"
+      ]
+    },
+    {
+      "name": "Cooked Bones",
+      "risk_level": "High (Physical Injury)",
+      "toxic_agent": "Splintering hazard",
+      "symptoms": [
+        "Choking",
+        "Internal punctures",
+        "Intestinal blockage",
+        "Severe constipation"
+      ]
+    },
+    {
+      "name": "Yeast Dough",
+      "risk_level": "High",
+      "toxic_agent": "Ethanol fermentation and expansion in stomach",
+      "symptoms": [
+        "Severe abdominal bloating",
+        "Disorientation",
+        "Gastric torsion (Bloat)"
+      ]
+    }
+  ]
+}
